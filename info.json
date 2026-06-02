@@ -1,6 +1,7 @@
 {
     "name": "Game: Enderal Special Edition",
     "author": "Pickysaurus",
-    "version": "0.2.6",
-    "description": "Support for Enderal Special Edition"
+    "editor": "soerenvogelsang",
+    "version": "0.3.1",
+    "description": "Enderal Special Edition Support for Vortex 2.X)"
 }
